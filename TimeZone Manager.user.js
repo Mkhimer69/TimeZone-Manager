@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         TimeZone Manager
 // @namespace    Fathy Mkhimer
-// @version      1.1.0
+// @version      1.1.1
 // @description  Override website time zones with a location + short-code picker (CST, IST, EGY…), Theme Studio aware, Ctrl+D to hide/show.
 // @author       Fathy
 // @match        *://*/*
