@@ -26,9 +26,13 @@
 ## 📥 Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
-2. Install **TimeZone Manager** — no configuration needed
-3. Open any site → click the 🕒 icon (bottom-right) → pick a zone
-4. Refresh the page — done; timestamps everywhere now use your zone
+
+2. Install **TimeZone Manager** (no configuration required):  
+   [Install TimeZone Manager](https://raw.githubusercontent.com/Mkhimer69/TimeZone-Manager/main/TimeZone%20Manager.user.js)
+
+3. Open any website, then click the 🕒 **TimeZone Manager** icon in the bottom-right corner and select your preferred time zone.
+
+4. Refresh the page. That's it! All supported timestamps will now be displayed using your selected time zone.
 
 ## 🖥 Usage
 
