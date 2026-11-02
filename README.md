@@ -1,5 +1,3 @@
-<img width="4032" height="1480" alt="image" src="https://github.com/user-attachments/assets/aa364d61-b16c-4520-a88b-347c5a54542e" /># 🕒 TimeZone Manager
-
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.1.0-orange?style=flat">
   <img src="https://img.shields.io/badge/engine-Tampermonkey-00485B?style=flat">
