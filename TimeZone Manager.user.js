@@ -6,6 +6,7 @@
 // @author       Fathy
 // @match        *://*/*
 // @run-at       document-start
+// @icon         data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3Crect%20width='64'%20height='64'%20rx='14'%20fill='%231A237E'/%3E%3Ccircle%20cx='32'%20cy='32'%20r='19'%20fill='none'%20stroke='%23FFD54F'%20stroke-width='5'/%3E%3Cpath%20d='M32%2021v11l9%206'%20fill='none'%20stroke='%23FFD54F'%20stroke-width='5'/%3E%3C/svg%3E
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/Mkhimer69/TimeZone-Manager/main/TimeZone%20Manager.user.js
 // @updateURL    https://raw.githubusercontent.com/Mkhimer69/TimeZone-Manager/main/TimeZone%20Manager.user.js
